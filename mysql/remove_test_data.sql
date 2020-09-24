@@ -2,6 +2,7 @@
  * remove_test_data.sql - deletes test data from the MealPlanner database
  *  
  * Author: Garrick Smith
+ *         Zhichen Ren
  * Revision Date: 9/29/19
  ******************************************************************************/
 USE MealPlanner;
