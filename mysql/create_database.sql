@@ -2,7 +2,7 @@
  * create_database.sql - creates the database and tables needed for the meal
  *                       meal planner application
  * Author: Garrick Smith
- *         Jason Ren
+ *         Zhichen Ren
  * Revision Date: 10/2/19
  ******************************************************************************/
 CREATE DATABASE IF NOT EXISTS MealPlanner;
