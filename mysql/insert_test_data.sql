@@ -2,6 +2,7 @@
  * insert_test_data.sql - inserts test data into the MealPlanner database
  *  
  * Author: Garrick Smith
+ *         Zhichen Ren
  * Revision Date: 9/29/19
  ******************************************************************************/
 USE MealPlanner;
